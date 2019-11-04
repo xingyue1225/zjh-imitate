@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    模仿饿了么外卖app
     <router-view/>
   </div>
 </template>
